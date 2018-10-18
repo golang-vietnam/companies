@@ -2,10 +2,14 @@
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the contribution guidelines first. This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize all [contributors](https://github.com/golang-vietnam/companies/graphs/contributors); you rock!
 
-- Alphabet sorting is required
-- If you see anything that is no longer maintained or is not a good fit, please submit a pull request to improve this repository.
+- To add, remove, or change things on the list: Submit a pull request
+- List companies should be sorted alphabetically
+- The link should be the name of the company or github.
+- Descriptions should be clear, concise, and non-promotional.
+
+If you see anything that is no longer maintained or is not a good fit, please submit a pull request to improve this repository.
 
 ### A
 
