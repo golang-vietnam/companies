@@ -62,6 +62,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### N
 
+- [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [Not A Basement](http://www.notabasement.com/)
 
 ### O
