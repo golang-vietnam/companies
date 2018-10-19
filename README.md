@@ -80,6 +80,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
 - TrustingSocial
+- [TomoChain](https://tomochain.com) - Core platform written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
 
 ### U
 
