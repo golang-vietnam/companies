@@ -15,8 +15,6 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### B
 
-- Beeketing
-
 ### C
 
 - [ChoTot](https://github.com/ChoTotOSS)
@@ -31,6 +29,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### F
 
+- [FPT Online](https://fptonline.net/)
+
 ### G
 
 - [Grab](https://github.com/grab)
@@ -42,18 +42,19 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### I
 
-- iParking
+- [iParking](https://www.iparking.vn/)
 
 ### J
 
 ### K
 
+- [Knorex](https://www.knorex.com/)
 - [Kyber Network](https://github.com/KyberNetwork) - Uses Go to build backend services and to interact with blockchain
 
 ### L
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
-- Lozi
+- [Lozi](https://lozi.vn/)
 
 ### M
 
@@ -62,10 +63,13 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### N
 
 - [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
+- [Not A Basement](http://www.notabasement.com/)
 
 ### O
 
 ### P
+
+- [Piksal](https://www.piksal.com/)
 
 ### Q
 
@@ -74,6 +78,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### S
 
 - [Sendo](https://www.sendo.vn/)
+- [Subiz](https://github.com/subiz)
 
 ### T
 
@@ -93,3 +98,9 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### Y
 
 ### Z
+
+- [Zody](https://zody.vn)
+
+### Others
+
+- [568E](https://id.568play.vn/)
