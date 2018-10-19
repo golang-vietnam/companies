@@ -60,6 +60,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### R
 
 ### S
+- Sendo.
 
 ### T
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
