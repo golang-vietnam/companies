@@ -15,7 +15,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### B
 
-- Beeketing
+- [Beeketing](https://beeketing.com) - An Automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
 
 ### C
 
@@ -79,8 +79,9 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### T
 
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
-- TrustingSocial
+- [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
 - [TomoChain](https://tomochain.com) - Core platform written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
+- TrustingSocial
 
 ### U
 
