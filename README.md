@@ -41,6 +41,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### K
 
+- [Kyber Network](https://github.com/KyberNetwork) - Uses Go to build backend services and to interact with blockchain
+
 ### L
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
