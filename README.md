@@ -15,7 +15,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### B
 
-- Beeketing
+- [Beeketing](https://beekeitng.com) - An Automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
 
 ### C
 
