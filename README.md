@@ -19,7 +19,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### C
 
-- ChoTot
+- [ChoTot](https://github.com/ChoTotOSS)
 
 ### D
 
@@ -45,7 +45,6 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
 - Lozi
-- 
 
 ### M
 
@@ -60,15 +59,21 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### R
 
 ### S
-- Sendo.
+
+- [Sendo](https://www.sendo.vn/)
 
 ### T
+
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
 - TrustingSocial
 
 ### U
 
 ### V
+
+- [VNG](https://www.vng.com.vn/)
+
+### W
 
 ### X
 
