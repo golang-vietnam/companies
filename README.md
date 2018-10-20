@@ -58,6 +58,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### M
 
 - [Miss Moneypenny Technologies](https://github.com/missmp)
+- [Misfit - Fossil Vietnam](https://misfit.com/jobs/) Using Golang for their [mobile app's](https://itunes.apple.com/vn/app/fossil-q/id1027370544?mt=8) backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
 
 ### N
 
