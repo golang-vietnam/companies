@@ -15,25 +15,25 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### B
 
-- [Beeketing](https://beeketing.com) - An Automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
+- [Beeketing](https://beeketing.com) - An automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
 
 ### C
 
-- [ChoTot](https://github.com/ChoTotOSS)
+- [ChoTot](https://www.chotot.com/) - [github](https://github.com/ChoTotOSS)
 
 ### D
 
-- [Dwarves Foundation](https://github.com/dwarvesf)
+- [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf)
 
 ### E
 
 - [Exgo](https://www.exgo.vn)
 
 ### F
-- <a href = "https://www.linkedin.com/company/focal-labs-jsc">Focal Labs</a>
+- [Focal Labs](https://www.linkedin.com/company/focal-labs-jsc)
 ### G
 
-- [Grab](https://github.com/grab)
+- [Grab](https://www.grab.com/) - [github](https://github.com/grab)
 - [GO-VIET](http://www.go-viet.vn)
 
 ### H
@@ -42,23 +42,25 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### I
 
-- iParking
+- [iParking](https://www.iparking.vn/)
 
 ### J
 
 ### K
 
-- [Kyber Network](https://github.com/KyberNetwork) - Uses Go to build backend services and to interact with blockchain
+- [Knorex](https://www.knorex.com/)
+- [Kyber Network](https://kyber.network/) - [github](https://github.com/KyberNetwork) - Uses Go to build backend services and to interact with blockchain
 
 ### L
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
-- Lozi
+- [Lozi](https://lozi.vn/)
 
 ### M
 
-- [Miss Moneypenny Technologies](https://github.com/missmp)
-- [Misfit - Fossil Vietnam](https://misfit.com/jobs/) Using Golang for their [mobile app's](https://itunes.apple.com/vn/app/fossil-q/id1027370544?mt=8) backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
+- [Miraway](http://miraway.vn/)
+- [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
+- [Misfit - Fossil Vietnam](https://misfit.com/) - Using Golang for their mobile backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
 
 ### N
 
@@ -76,13 +78,14 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### S
 
 - [Sendo](https://www.sendo.vn/)
+- [Subiz](https://subiz.com/) - [github](https://github.com/subiz)
 
 ### T
 
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
 - [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
 - [TomoChain](https://tomochain.com) - Core platform written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
-- TrustingSocial
+- [TrustingSocial](https://trustingsocial.com/)
 
 ### U
 
@@ -97,3 +100,5 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### Y
 
 ### Z
+
+- [Zody](https://zody.vn/)
