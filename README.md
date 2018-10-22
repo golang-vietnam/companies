@@ -23,14 +23,18 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### D
 
-- [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf)
+- [Designveloper](https://www.designveloper.com/)
+- [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf) - An engineering firm adopting Golang as a main language of choice to rewrite the modern world
 
 ### E
 
 - [Exgo](https://www.exgo.vn)
 
 ### F
+
 - [Focal Labs](https://www.linkedin.com/company/focal-labs-jsc)
+- [FPT Online](https://fptonline.net/)
+
 ### G
 
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
