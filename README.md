@@ -41,7 +41,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [GO-VIET](http://www.go-viet.vn)
 
 ### H
-
+- [Haposoft](https://haposoft.com)
 - [HBLAB](https://hblab.vn)
 
 ### I
