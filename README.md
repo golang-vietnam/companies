@@ -31,6 +31,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### E
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
 - [Exgo](https://www.exgo.vn)
+- [Encapital.io](https://encapital.io) - use golang to build backend to deliver financial data
 
 ### F
 
