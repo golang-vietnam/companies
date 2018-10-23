@@ -106,3 +106,4 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### Z
 
 - [Zody](https://zody.vn/)
+- [Zalora](https://github.com/zalora) - Uses Go to build tools, services
