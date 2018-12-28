@@ -108,6 +108,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### W
 
+- [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
+
 ### X
 
 ### Y
