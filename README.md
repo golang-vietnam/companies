@@ -45,6 +45,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
 - [GO-VIET](http://www.go-viet.vn) - [github](https://github.com/gojektech)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
+- [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
 
 
 ### H
