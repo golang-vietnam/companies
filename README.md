@@ -101,6 +101,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
 - [TomoChain](https://tomochain.com) - Core platform written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
 - [TrustingSocial](https://trustingsocial.com/)
+- [Techcom Securities](https://tcbs.com.vn) - [Github](https://github.com/techcomsecurities) - Uses Go to build microservices and crypto part of mobile app
 
 ### U
 
