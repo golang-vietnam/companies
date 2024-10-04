@@ -75,6 +75,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
 - [Lozi](https://lozi.vn/)
+- [Locofy](https://www.locofy.ai/) - Transform Figma designs into production-ready front-end code in one click
 
 ### M
 
