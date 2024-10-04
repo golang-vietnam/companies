@@ -55,6 +55,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
 - [GemCommerce](https://gemcommerce.com) - build GemCommerce platform, help people sell better online
 - [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
+- [GOD Group](https://www.godgroup.com/) - Beyond All Border
 
 ### H
 - [Haposoft](https://haposoft.com)
