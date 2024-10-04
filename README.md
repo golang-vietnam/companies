@@ -21,6 +21,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### B
 
 - [Beeketing](https://beeketing.com) - An automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
+- [Bizfly Cloud](https://bizflycloud.vn)- [github](https://github.com/bizflycloud) - Public Cloud Provider in Vietnam
 
 ### C
 
