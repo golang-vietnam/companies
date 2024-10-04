@@ -16,6 +16,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Asian Tech](https://asiantech.vn) - [github](https://github.com/asiantechinc)
 - [ANDPAD VietNam Co., Ltd](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Ahamove](https://ahamove.com) - An on-demand delivery Company
+- [Anfin](https://anfin.vn) - [github](https://github.com/anfin21) - Anfin - Ứng dụng tài chính đa tiện ích
 
 ### B
 
@@ -43,6 +44,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [FPT Online](https://fptonline.net/)
 - [Five9 Vietnam](http://five9.vn)
 - [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
+- [FireGroup](https://firegroup.io/) - Empowering merchants to succeed with e-Commerce
 
 ### G
 
@@ -80,12 +82,13 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
 - [Misfit - Fossil Vietnam](https://misfit.com/) - Using Golang for their mobile backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
 - [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
-- [Money Forward Vietnam](https://www.moneyforward.vn/) - [GitHub](https://github.com/moneyforwardvietnam)
+- [Money Forward Vietnam](https://careers.moneyforward.vn/)
 
 ### N
 
 - [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [Not A Basement](http://www.notabasement.com/)
+- [Nimbus](https://getnimbus.io/) - Using Go to build realtime onchain data indexer and portfolio tracker in Web3.
 
 ### O
 
