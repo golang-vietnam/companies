@@ -79,7 +79,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
 - [Misfit - Fossil Vietnam](https://misfit.com/) - Using Golang for their mobile backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
 - [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
-- [Money Forward Vietnam](https://www.moneyforward.vn/) - [GitHub](https://github.com/moneyforwardvietnam)
+- [Money Forward Vietnam](https://careers.moneyforward.vn/)
 
 ### N
 
