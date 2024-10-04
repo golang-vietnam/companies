@@ -34,7 +34,6 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [DatVietVAC](https://datvietvac.vn) - build tools and solutions for DatViet group
 
 ### E
-
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
 - [Exgo](https://www.exgo.vn)
 - [Encapital.io](https://encapital.io) - use golang to build backend to deliver financial data
@@ -53,12 +52,11 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
 - [GO-VIET](http://www.go-viet.vn) - [github](https://github.com/gojektech)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
-- [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend.
+- [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
 - [GemCommerce](https://gemcommerce.com) - build GemCommerce platform, help people sell better online
 - [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
 
 ### H
-
 - [Haposoft](https://haposoft.com)
 - [HBLAB](https://hblab.vn)
 
@@ -84,7 +82,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Miraway](http://miraway.vn/)
 - [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
 - [Misfit - Fossil Vietnam](https://misfit.com/) - Using Golang for their mobile backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
-- [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)- Most of our backend services are developed by Golang.
+- [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
 - [Money Forward Vietnam](https://careers.moneyforward.vn/)
 
 ### N
@@ -95,13 +93,14 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### O
 
-- [Orient Software](https://www.orientsoftware.com) -
+- [Orient Software](https://www.orientsoftware.com) - 
 
 ### P
 
 ### Q
 
 - [Quqo](https://www.quqo.com) - an e-commerce company, use Golang for internal system, outsourcing products, integrations,...
+
 
 ### R
 
