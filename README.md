@@ -42,6 +42,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [FPT Online](https://fptonline.net/)
 - [Five9 Vietnam](http://five9.vn)
 - [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
+- [FireGroup](https://firegroup.io/) - Empowering merchants to succeed with e-Commerce
 
 ### G
 
