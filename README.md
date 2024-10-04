@@ -101,6 +101,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### R
 
+- [Reliasoftware](https://reliasoftware.com/) - [github](https://github.com/reliasoftware)
+
 ### S
 
 - [Sendo](https://www.sendo.vn/)
