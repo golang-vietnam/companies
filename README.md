@@ -14,6 +14,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### A
 
 - [Asian Tech](https://asiantech.vn) - [github](https://github.com/asiantechinc)
+- [ANDPAD VietNam Co., Ltd](https://andpad.vn) - consulting, providing cloud-based construction project management service
 
 ### B
 
@@ -27,6 +28,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Designveloper](https://www.designveloper.com/)
 - [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf) - An engineering firm adopting Golang as a main language of choice to rewrite the modern world
+- [DEHA Software](https://deha-soft.com) - IT Services and Consulting
+- [DatVietVAC](https://datvietvac.vn) - build tools and solutions for DatViet group
 
 ### E
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
@@ -38,6 +41,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Focal Labs](https://www.linkedin.com/company/focal-labs-jsc)
 - [FPT Online](https://fptonline.net/)
 - [Five9 Vietnam](http://five9.vn)
+- [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
 
 ### G
 
@@ -46,7 +50,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [GO-VIET](http://www.go-viet.vn) - [github](https://github.com/gojektech)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
 - [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
-
+- [GemCommerce](https://gemcommerce.com) - build GemCommerce platform, help people sell better online
+- [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
 
 ### H
 - [Haposoft](https://haposoft.com)
@@ -83,6 +88,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### O
 
+- [Orient Software](https://www.orientsoftware.com) - 
+
 ### P
 
 ### Q
@@ -94,6 +101,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Sendo](https://www.sendo.vn/)
 - [Skylab](https://skylab.vn/) - A Outsourcing with Product Mindset, so we use Golang for all clients.
 - [Subiz](https://subiz.com/) - [github](https://github.com/subiz)
+- [SSI Securities Corporation](https://www.ssi.com.vn/en)
+- [SkyMavis](https://skymavis.com) - introducing the world to crypto through nostalgic games
 
 ### T
 
@@ -109,6 +118,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [VinID](https://vinid.net/) - Golang for microservices
 - [VNG](https://www.vng.com.vn/) - Uses Go to develop ZaloPay backend and ZaloPay Merchant Platform
+- [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 
 ### W
 
