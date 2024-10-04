@@ -85,6 +85,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [Not A Basement](http://www.notabasement.com/)
+- [Nimbus](https://getnimbus.io/) - Using Go to build realtime onchain data indexer and portfolio tracker in Web3.
 
 ### O
 
