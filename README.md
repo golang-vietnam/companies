@@ -13,14 +13,16 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### A
 
-- [Asian Tech](https://asiantech.vn) - [github](https://github.com/asiantechinc)
-- [ANDPAD VietNam Co., Ltd](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Ahamove](https://ahamove.com) - An on-demand delivery Company
+- [ANDPAD VietNam Co., Ltd](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Anfin](https://anfin.vn) - [github](https://github.com/anfin21) - Anfin - Ứng dụng tài chính đa tiện ích
+- [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Loyalty platform
+- [Asian Tech](https://asiantech.vn) - [github](https://github.com/asiantechinc)
 
 ### B
 
 - [Beeketing](https://beeketing.com) - An automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
+- [Bizfly Cloud](https://bizflycloud.vn)- [github](https://github.com/bizflycloud) - Public Cloud Provider in Vietnam
 
 ### C
 
@@ -94,7 +96,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### O
 
-- [Orient Software](https://www.orientsoftware.com) - 
+- [Orient Software](https://www.orientsoftware.com) -
+- [OpenCommerce Group - Shopbase](https://www.opencommercegroup.com/vi) - Use Go to develop microservices for its large-scale e-commerce platform
 
 ### P
 
@@ -123,12 +126,13 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### V
 
 - [VinID](https://vinid.net/) - Golang for microservices
-- [VNG](https://www.vng.com.vn/) - Uses Go to develop ZaloPay backend and ZaloPay Merchant Platform
+- [VNG](https://www.vng.com.vn/) - Uses Go to develop [Zalopay](https://zalopay.vn/) backend and Zalopay Merchant Platform
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 
 ### W
 
 - [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
+- [Wolffun Game](https://www.wolffungame.com/) - Uses Go to develop microservices for the back end of a gaming platform and mobile online games.
 
 ### X
 
