@@ -75,7 +75,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### L
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
-- [LINE] (https://linecorp.com/en/) - [github](https://github.com/line) - Using Golang to build PaaS and other various services.
+- [LINE](https://linecorp.com/en/) - [github](https://github.com/line) - Using Golang to build PaaS and other various services.
 - [Lozi](https://lozi.vn/)
 - [Locofy](https://www.locofy.ai/) - Transform Figma designs into production-ready front-end code in one click
 
@@ -95,7 +95,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### O
 
-- [Orient Software](https://www.orientsoftware.com) -
+- [Orient Software](https://www.orientsoftware.com)
 - [OpenCommerce Group - Shopbase](https://www.opencommercegroup.com/vi) - Use Go to develop microservices for its large-scale e-commerce platform
 
 ### P
