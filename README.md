@@ -13,14 +13,14 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### A
 
-- [Asian Tech](https://asiantech.vn) - [github](https://github.com/asiantechinc)
-- [ANDPAD VietNam Co., Ltd](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Ahamove](https://ahamove.com) - An on-demand delivery Company
+- [ANDPAD](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Anfin](https://anfin.vn) - [github](https://github.com/anfin21) - Anfin - Ứng dụng tài chính đa tiện ích
+- [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Loyalty platform
 
 ### B
 
-- [Beeketing](https://beeketing.com) - An automation marketing company, have moved old stack from PHP to Golang with owned microservice framework
+- [Bizfly Cloud](https://bizflycloud.vn)- [github](https://github.com/bizflycloud) - Public Cloud Provider in Vietnam
 
 ### C
 
@@ -35,14 +35,12 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### E
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
-- [Exgo](https://www.exgo.vn)
 - [Encapital.io](https://encapital.io) - use golang to build backend to deliver financial data
 
 ### F
 
 - [Focal Labs](https://www.linkedin.com/company/focal-labs-jsc)
 - [FPT Online](https://fptonline.net/)
-- [Five9 Vietnam](http://five9.vn)
 - [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
 - [FireGroup](https://firegroup.io/) - Empowering merchants to succeed with e-Commerce
 
@@ -50,13 +48,13 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [giaohangnhanh.vn](https://ghn.vn) - Micro Services using Go
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
-- [GO-VIET](http://www.go-viet.vn) - [github](https://github.com/gojektech)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
 - [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
 - [GemCommerce](https://gemcommerce.com) - build GemCommerce platform, help people sell better online
 - [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
 
 ### H
+
 - [Haposoft](https://haposoft.com)
 - [HBLAB](https://hblab.vn)
 
@@ -74,33 +72,36 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### L
 
-- [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
-- [Lozi](https://lozi.vn/)
+- [LINE](https://linecorp.com/en/) - [github](https://github.com/line) - Using Golang to build PaaS and other various services.
 - [Locofy](https://www.locofy.ai/) - Transform Figma designs into production-ready front-end code in one click
 
 ### M
 
 - [Miraway](http://miraway.vn/)
 - [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
-- [Misfit - Fossil Vietnam](https://misfit.com/) - Using Golang for their mobile backend APIs services. These services are built on FossKit - an in-house framework based on [GoKit](https://gokit.io/).
 - [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
 - [Money Forward Vietnam](https://careers.moneyforward.vn/)
 
 ### N
 
 - [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
-- [Not A Basement](http://www.notabasement.com/)
 - [Nimbus](https://getnimbus.io/) - Using Go to build realtime onchain data indexer and portfolio tracker in Web3.
 
 ### O
 
-- [Orient Software](https://www.orientsoftware.com) - 
+- [Orient Software](https://www.orientsoftware.com)
+- [OpenCommerce Group - Shopbase](https://www.opencommercegroup.com/vi) - Use Go to develop microservices for its large-scale e-commerce platform
 
 ### P
 
 ### Q
 
+- [Quqo](https://www.quqo.com) - an e-commerce company, use Golang for internal system, outsourcing products, integrations,...
+
+
 ### R
+
+- [Reliasoftware](https://reliasoftware.com/) - [Github](https://github.com/reliasoftware) - Uses Go to build various microservices.
 
 ### S
 
@@ -112,29 +113,33 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### T
 
+- [TablePlus](https://tableplus.com) - Build backend for DBMS
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
 - [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
-- [TomoChain](https://tomochain.com) - Core platform written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
+- [Viction](https://www.viction.xyz) - Blockchain L1 written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
 - [TrustingSocial](https://trustingsocial.com/)
 - [Techcom Securities](https://tcbs.com.vn) - [Github](https://github.com/techcomsecurities) - Uses Go to build microservices and crypto part of mobile app
+- [Thitruongsi](https://thitruongsi.com/) -  Uses go to develop microservices backend for Wholesale Ecommerce Platform.
 
 ### U
 
 ### V
 
 - [VinID](https://vinid.net/) - Golang for microservices
-- [VNG](https://www.vng.com.vn/) - Uses Go to develop ZaloPay backend and ZaloPay Merchant Platform
+- [VNG](https://www.vng.com.vn/) - Uses Go to develop [Zalopay](https://zalopay.vn/) backend and Zalopay Merchant Platform
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 
 ### W
 
 - [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
+- [Wolffun Game](https://www.wolffungame.com/) - Uses Go to develop microservices for the back end of a gaming platform and mobile online games.
 
 ### X
 
 ### Y
 
 ### Z
+
 - [ZaloPay](https://zalopay.vn/) - Uses Go to build backend services for Zalopay
 - [Zody](https://zody.vn/)
 - [Zalora](https://github.com/zalora) - Uses Go to build tools, services
