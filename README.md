@@ -74,6 +74,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### L
 
 - [Lazada](https://github.com/lazada) - Uses Go to build various microservices.
+- [LINE] (https://linecorp.com/en/) - [github](https://github.com/line) - Using Golang to build PaaS and other various services.
 - [Lozi](https://lozi.vn/)
 - [Locofy](https://www.locofy.ai/) - Transform Figma designs into production-ready front-end code in one click
 
