@@ -108,6 +108,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### R
 
+- [Reliasoftware](https://reliasoftware.com/) - [Github](https://github.com/reliasoftware) - Uses Go to build various microservices.
+
 ### S
 
 - [Sendo](https://www.sendo.vn/)
