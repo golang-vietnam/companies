@@ -39,6 +39,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### F
 
+- [Fabbi JSC](https://fabbi.com.vn)
 - [Focal Labs](https://www.linkedin.com/company/focal-labs-jsc)
 - [FPT Online](https://fptonline.net/)
 - [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
