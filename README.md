@@ -17,6 +17,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [ANDPAD](https://andpad.vn) - consulting, providing cloud-based construction project management service
 - [Anfin](https://anfin.vn) - [github](https://github.com/anfin21) - Anfin - Ứng dụng tài chính đa tiện ích
 - [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Loyalty platform
+- [AI Activ](https://aiactiv.io/) - A company of DatVietVAC Group, building an Ads system
 
 ### B
 
@@ -31,7 +32,6 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Designveloper](https://www.designveloper.com/)
 - [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf) - An engineering firm adopting Golang as a main language of choice to rewrite the modern world
 - [DEHA Software](https://deha-soft.com) - IT Services and Consulting
-- [DatVietVAC](https://datvietvac.vn) - build tools and solutions for DatViet group
 
 ### E
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
@@ -52,6 +52,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [GoDee](https://godee.vn) - Shared Comfortable Rides in HCMC. Using Golang & GRPC as a middlware between apps and core backend. 
 - [GemCommerce](https://gemcommerce.com) - build GemCommerce platform, help people sell better online
 - [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
+- [Geniebook](http://geniebook.com) - a Singaporean EdTech company
 
 ### H
 
@@ -125,6 +126,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [VinID](https://vinid.net/) - Golang for microservices
 - [VNG](https://www.vng.com.vn/) - Uses Go to develop [Zalopay](https://zalopay.vn/) backend and Zalopay Merchant Platform
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
+- [VieON](https://vieon.vn) - An OTT platform, a company of DatVietVAC Group. Previous name is DZones Hub.
 
 ### W
 
