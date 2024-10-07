@@ -79,7 +79,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### M
 
 - [Miraway](http://miraway.vn/)
-- [Miss Moneypenny Technologies](https://missmp.eu/) - [github](https://github.com/missmp)
+- [Miss Moneypenny Technologies](https://www.walletstudio.com/en/life-at-miss-moneypenny) - [github](https://github.com/missmp) - Using Go to build our SaaS [Wallet Studio](https://www.walletstudio.com) that connects companies to Apple / Google Wallet. 
 - [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
 - [Money Forward Vietnam](https://careers.moneyforward.vn/)
 
