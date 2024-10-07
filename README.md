@@ -18,6 +18,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Anfin](https://anfin.vn) - [github](https://github.com/anfin21) - Anfin - Ứng dụng tài chính đa tiện ích
 - [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Loyalty platform
 - [AI Activ](https://aiactiv.io/) - A company of DatVietVAC Group, building an Ads system
+- [Amote](https://apps.shopify.com/amote-checkout) - Ultimate in-cart upsell app to boost AOV
 
 ### B
 
