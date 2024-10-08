@@ -121,6 +121,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [TrustingSocial](https://trustingsocial.com/)
 - [Techcom Securities](https://tcbs.com.vn) - [Github](https://github.com/techcomsecurities) - Uses Go to build microservices and crypto part of mobile app
 - [Thitruongsi](https://thitruongsi.com/) -  Uses go to develop microservices backend for Wholesale Ecommerce Platform.
+- [Trustz App](https://apps.shopify.com/trustz) - Build Trust & Boost Sales: Payment Badges, Sticky Add To Cart, Stock Countdown, Countdown Timer, 30+
 
 ### U
 
