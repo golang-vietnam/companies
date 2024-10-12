@@ -27,6 +27,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### C
 
 - [ChoTot](https://www.chotot.com/) - [github](https://github.com/ChoTotOSS)
+- [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/) - [Hanoi Development Center](https://github.com/CyberAgentHanoiDevCenter) - Use Go to build a wide range of products with multi-million user bases.
+
 
 ### D
 
