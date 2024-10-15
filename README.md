@@ -23,11 +23,15 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### B
 
 - [Bizfly Cloud](https://bizflycloud.vn)- [github](https://github.com/bizflycloud) - Public Cloud Provider in Vietnam
+- [BE](https://be.com.vn/) - Booking car app
+- [Ban vien corp](https://banvien.com/) - Outsource
+- [Btaskee](https://www.btaskee.com/) - Home cleaning service
 
 ### C
 
 - [ChoTot](https://www.chotot.com/) - [github](https://github.com/ChoTotOSS)
 - [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/) - [Hanoi Development Center](https://github.com/CyberAgentHanoiDevCenter) - Use Go to build a wide range of products with multi-million user bases.
+- [CMC global](https://www.cmc.com.vn/)
 
 
 ### D
@@ -35,6 +39,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Designveloper](https://www.designveloper.com/)
 - [Dwarves Foundation](https://dwarves.foundation) - [github](https://github.com/dwarvesf) - An engineering firm adopting Golang as a main language of choice to rewrite the modern world
 - [DEHA Software](https://deha-soft.com) - IT Services and Consulting
+- [Deqit](https://www.diqit.com/en/) - Outsource
 
 ### E
 - [Endur.io](http://endur.io) - Use golang to build an elastic supply stablecoin
@@ -47,6 +52,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [FPT Online](https://fptonline.net/)
 - [Flodesk](https://flodesk.com) - bring creativity and simplicity to the email marketing space
 - [FireGroup](https://firegroup.io/) - Empowering merchants to succeed with e-Commerce
+- [Finan](https://finan.one/vn/) - ERP
 
 ### G
 
@@ -96,8 +102,10 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Orient Software](https://www.orientsoftware.com)
 - [OpenCommerce Group - Shopbase](https://www.opencommercegroup.com/vi) - Use Go to develop microservices for its large-scale e-commerce platform
+- [OplaCRM](https://app.oplacrm.com/) - CRM
 
 ### P
+- [Ponos tech](https://ponos-tech.com/) - HRM
 
 ### Q
 
@@ -135,6 +143,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [VNG](https://www.vng.com.vn/) - Uses Go to develop [Zalopay](https://zalopay.vn/) backend and Zalopay Merchant Platform
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 - [VieON](https://vieon.vn) - An OTT platform, a company of DatVietVAC Group. Previous name is DZones Hub.
+- [VUS](https://vus.edu.vn/) - Edtech
 
 ### W
 
