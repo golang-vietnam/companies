@@ -13,7 +13,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 
 ### 2
-- [200Lab](https://200lab.io/) - Using Go for LMS, CMS, Blog, and Related Services at 200Lab
+- [200Lab](https://200lab.io/) - Using Go for LMS, CMS, Blog, and Related Services at 200Lab.
 
 ### A
 
