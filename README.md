@@ -26,6 +26,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [BE](https://be.com.vn/) - Booking car app
 - [Ban vien corp](https://banvien.com/) - Outsource
 - [Btaskee](https://www.btaskee.com/) - Home cleaning service
+- [Buymed](https://www.thuocsi.vn/) - A leading medicine e-commerce company in Vietnam, specializing in a large-scale B2B model
 
 ### C
 
@@ -128,6 +129,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [TablePlus](https://tableplus.com) - Build backend for DBMS
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
+- [Textedge](https://www.textedge.net/) - Utilizing Go, Textedge develop and maintain scalable microservices to support the backend architecture of SaaS platforms. 
 - [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
 - [Viction](https://www.viction.xyz) - Blockchain L1 written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
 - [TrustingSocial](https://trustingsocial.com/)
