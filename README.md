@@ -144,6 +144,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 - [VieON](https://vieon.vn) - An OTT platform, a company of DatVietVAC Group. Previous name is DZones Hub.
 - [VUS](https://vus.edu.vn/) - Edtech
+- [Viettel Security](https://viettelcybersecurity.com/) - Uses Go for both microservices backend and cross-platform security agents development
 
 ### W
 
