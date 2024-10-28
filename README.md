@@ -172,6 +172,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### W
 
+- [WeeDigital](https://www.weedigital.org/en/technology.html) - Use Golang for server apps and client libraries in biometric digital identity systems.
 - [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
 - [Wolffun Game](https://www.wolffungame.com/) - Uses Go to develop microservices for the back end of a gaming platform and mobile online games.
 
