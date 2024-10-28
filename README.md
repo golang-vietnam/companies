@@ -147,7 +147,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### W
 
-- [WeeDigital](https://weedigital.vn/) - 'Golang' is used to develop more than 95% of server applications to meet the requirements of the majority of software for biometric digital identity systems as well as accompanying applications for partners. In addition, it is also used in libraries for client applications (gomobile, go-wasm, ...).
+- [WeeDigital](https://www.weedigital.org/en/technology.html) - Use Golang for server apps and client libraries in biometric digital identity systems.
 - [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
 - [Wolffun Game](https://www.wolffungame.com/) - Uses Go to develop microservices for the back end of a gaming platform and mobile online games.
 
