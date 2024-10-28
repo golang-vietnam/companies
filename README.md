@@ -62,6 +62,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### G
 
+- [GHTK - giaohangtietkiem.vn](https://giaohangtietkiem.vn) - [Bamboo Firewall](https://github.com/bamboo-firewall), [iGHTK](https://ightk.vn) And a ton of services in Golang
 - [giaohangnhanh.vn](https://ghn.vn) - Micro Services using Go
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
@@ -83,7 +84,6 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### I
 
-- [IGHTK](https://i.ghtk.vn/) - Uses Go to build backend services for application tracking, social network between end-users.
 - [i-com](https://i-com.vn)
 
 ### J
