@@ -143,6 +143,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [SSI Securities Corporation](https://www.ssi.com.vn/en)
 - [SkyMavis](https://skymavis.com) - introducing the world to crypto through nostalgic games
 - [Sun*](https://sun-asterisk.vn)
+- [Saladin](https://www.saladin.vn) - Utilizing Go to manage extensive requests for an insurance platform
 
 ### T
 
